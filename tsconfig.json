@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "outDir": "core/build"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+
+}
